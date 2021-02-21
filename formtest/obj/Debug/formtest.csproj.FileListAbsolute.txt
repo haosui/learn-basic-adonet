@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\formtest\bin\Debug\formtest.exe.config
+C:\Users\PC\source\repos\formtest\bin\Debug\formtest.exe
+C:\Users\PC\source\repos\formtest\bin\Debug\formtest.pdb
+C:\Users\PC\source\repos\formtest\bin\Debug\MetroFramework.Design.dll
+C:\Users\PC\source\repos\formtest\bin\Debug\MetroFramework.dll
+C:\Users\PC\source\repos\formtest\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\PC\source\repos\formtest\obj\Debug\formtest.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\formtest\obj\Debug\formtest.Form1.resources
+C:\Users\PC\source\repos\formtest\obj\Debug\formtest.Properties.Resources.resources
+C:\Users\PC\source\repos\formtest\obj\Debug\formtest.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\formtest\obj\Debug\formtest.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\formtest\obj\Debug\formtest.csproj.CopyComplete
+C:\Users\PC\source\repos\formtest\obj\Debug\formtest.exe
+C:\Users\PC\source\repos\formtest\obj\Debug\formtest.pdb
+C:\Users\PC\source\repos\formtest\bin\Debug\Net.Code.ADONet.dll
